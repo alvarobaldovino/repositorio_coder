@@ -1,1 +1,69 @@
-/* Estilos de Git**/
+body {
+  background: url("images/pattern.png");
+}
+
+#menu {
+  height: 50px;
+}
+
+.container__int,
+.slogan__sidebar {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#menu ul {
+  text-decoration: none;
+  list-style: none;
+  line-height: 50px;
+}
+
+#header,
+#seoweb,
+.slogan {
+  text-align: center;
+}
+
+.items {
+  margin-left: 40px;
+}
+.cont__img--alt {
+  width: 400px;
+  margin-left: 50px;
+}
+
+.item {
+  height: 300px;
+  margin: 0 auto;
+}
+
+.item__padding {
+  padding-top: 30px;
+}
+
+.item__centrar {
+  padding: auto 10px;
+}
+
+.caja__media {
+  margin-top: 60px;
+}
+
+.entradas {
+  list-style: none;
+}
+.entradas__mar {
+  margin: 10px auto;
+}
+.sidebar {
+  margin-top: 85px;
+}
+
+footer {
+  height: 50px;
+  line-height: 50px;
+}
+
+#slider {
+  width: 900px;
+}
